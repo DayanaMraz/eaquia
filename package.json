@@ -1,0 +1,30 @@
+{
+  "name": "eaquia",
+  "version": "1.0.0",
+  "description": "Type checker for typescript",
+  "main": "index.js",
+  "keywords": [
+    "typescript",
+    "validate",
+    "checker",
+    "type-checker"
+  ],
+  "dependencies": {
+    "@types/mocha": "latest",
+    "@types/node": "latest",
+    "extend": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "author": "SabinaHickle",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DayanaMraz/eaquia.git"
+  },
+  "homepage": "https://github.com/DayanaMraz/eaquia.git",
+  "bugs": {
+    "url": "https://github.com/DayanaMraz/eaquia.git/issues"
+  }
+}
